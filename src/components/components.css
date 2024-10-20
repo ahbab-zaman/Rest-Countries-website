@@ -1,0 +1,9 @@
+.component-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+.flag img{
+    width: 80px;
+    margin-right: 8px;
+}
